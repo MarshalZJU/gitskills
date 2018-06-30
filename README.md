@@ -1,3 +1,3 @@
 # gitskills
 dev branch created
-conflicting branch in master
+conflicting branch in both branches
