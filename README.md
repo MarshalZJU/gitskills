@@ -1,4 +1,4 @@
 # gitskills
 dev branch created
-conflicting branch in both branches
+conflicting a branch in both branches
 merge and detatch
